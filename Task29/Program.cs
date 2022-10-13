@@ -16,7 +16,3 @@ if (massiv.Length == 8)
 }
 else
 Console.WriteLine("Вы ввели не восемь цифр");
-// foreach (string sub in massiv)
-// {
-//     Console.WriteLine($"Substring: {sub}");
-// }
